@@ -2,6 +2,7 @@
 
 int main (){
     
+    // printing information
     printf("Hello, world!");
 
     return 0;
